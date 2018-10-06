@@ -3,7 +3,15 @@ header {
     font-family: 'Notable', sans-serif;
     font-size: 50px;
     text-align: center;
+
 }
+
+html {
+    background-color: rgb(255, 255, 0);
+
+}
+
+
 
 /* Heading Styles */
 
