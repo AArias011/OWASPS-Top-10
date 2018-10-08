@@ -28,7 +28,10 @@ html {
 
 
 /* Navigation Styles */
-
+nav>ul {
+    text-align: center;
+    list-style: none;
+}
 
 
 
